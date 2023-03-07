@@ -6,7 +6,7 @@
 ### <div align="center">I'm Asadullah, a full-time Laravel Full-stack developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/AsadullahIdeafist)  
   
 
 - 🌱 I’m currently learning React | Alpine js and Vue  
